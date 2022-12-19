@@ -1,10 +1,10 @@
-## Media-Server
+# Media-Server
 
-# What it does:
+## What it does:
 
 Stream videos from your machine to any device on your network
 
-# Start Server:
+## Start Server:
 
 ```bash
 git clone https://github.com/ronald-luo/media-server.git
@@ -13,7 +13,7 @@ npm install
 node app.js
 ```
 
-# How to use it:
+## How to use it:
 
 1. Install the latest version of node (if you don't have it).
 1. Upload video files into the media provided folder.
