@@ -1,0 +1,2 @@
+add your videos to this folder
+videos should be named without spaces (ie. video_1.mp4)
