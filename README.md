@@ -18,4 +18,4 @@ node app.js
 1. Install the latest version of node (if you don't have it).
 1. Upload video files into the media provided folder.
 2. Run the server.
-3. Access videos at http://www.<your_ip_address>/video/<name_of_video>
+3. Access videos at `http://www.<your_ip_address>/video/<name_of_video>`
